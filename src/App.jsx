@@ -78,7 +78,7 @@ export default function App() {
           </div>
 
           <div className="text-xs text-zinc-500">
-            API: <span className="font-medium text-zinc-700">{apiBase || "(defina VITE_API_BASE)"}</span>
+            
           </div>
         </div>
       </header>
