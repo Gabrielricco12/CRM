@@ -104,7 +104,7 @@ export default function App() {
             ))}
             {!loadingConvs && conversations.length === 0 && (
               <div className="text-sm text-zinc-500 p-4">
-                Sem conversas ainda. Quando o webhook receber mensagens, elas aparecem aqui.
+                Sem conversas ainda.
               </div>
             )}
           </div>
